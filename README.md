@@ -1,0 +1,1 @@
+# angular18-tailwindcss-template
